@@ -1,3 +1,3 @@
 # reservation app
 
-built reservation app using express mongo db
+built a hotel reservation app using express mongo db
